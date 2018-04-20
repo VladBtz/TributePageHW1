@@ -1,0 +1,36 @@
+.img-border{
+  border-radius:10px;
+  width:70%;
+  border-color:black;
+  border-width:10px;
+  border-style:solid;
+  display:block;
+  margin:auto;
+}
+.silver-background{
+  background-color:#CFD8DC;
+  border-radius:10px;
+  margin:50px;
+ padding:50px;
+}
+.margin{
+  display:block;
+  margin:auto;
+}
+#para1{
+  font-family:cursive;
+  font-size:45px;
+}
+#lastpara{
+  font-family:cursive;
+  font-size:20px;
+  color:#607D8B;
+}
+#icons{
+  margin: auto;
+  text-align: center; 
+}
+.space{
+ margin:50px;
+ padding:50px;
+}
